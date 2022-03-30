@@ -1,0 +1,14 @@
+.button {
+    float: right;
+    
+}
+.addBtn{
+position: absolute;
+bottom: 50px;
+right: 50px;
+padding: 10px;
+border: 1px solid black;
+border-radius: 20px;
+background-color: lightblue; 
+}
+
